@@ -1,0 +1,22 @@
+Indicator	TTR.Name	quantmod.Name	Group
+Commodity Channel Index	CCI	addCCI	Index
+Chaiken Money Flow	CMF	addCMF	Other
+Chande Momentum Oscillator	CMO	addCMO	Other
+Double Exponential Moving Average	DEMA	addDEMA	Moving Average
+Detrended Price Oscillator	DPO	addDPO	Other
+Exponential Moving Average	EMA	addEMA	Moving Average
+Price Envelope	N/A	addEnvelope	General
+Exponential Volume Weighted Moving Average	EVWMA	addEVWMA	Moving Average
+Options and Futures Expiration	N/A	addExpiry	General
+Moving Average Convergence Divergence	MACD	addMACD	Moving Average
+Momentum	momentum	addMomentum	General
+Rate of Change	ROC	addROC	General
+Relative Strength Indicator	RSI	addRSI	Index
+Parabolic Stop and Reverse	SAR	addSAR	Other
+Simple Moving Average	SMA	addSMA	Moving Average
+Stochastic Momentum Index	SMI	addSMI	Index
+Triple Smoothed Exponential Oscillator	TRIX	addTRIX	Other
+Volume	N/A	addVo	General
+Weighted Moving Average	WMA	addWMA	Moving Average
+Williams %R	WPR	addWPR	General
+ZLEMA	ZLEMA	addZLEMA	General

@@ -1,0 +1,17 @@
+StockTicker	Sector	Stocks	Index
+MSFT	Tech	Microsoft	1
+FB	Tech	Facebook	2
+BABA	Tech	Alibaba	3
+AIEQ	Index	AIEQ	4
+VTWO	Index	Vanguard Small Cap	5
+MU	Industrial	Micron Technology	6
+V	Financial	Visa	7
+BAC	Financial	Bank of America	8
+SPY	Index	SPY	9
+GE	Industrial	GE	10
+CCL	Travel	Carnival Cruise Lines	11
+HDB	Financial	HDFC Bank	12
+DAL	Travel	Delta	13
+IBN	Financial	ICICI Bank	14
+DD	Industrial	Dupont De Nemours	15
+BA	Industrial	Boeing	16
