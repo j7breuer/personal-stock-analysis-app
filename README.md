@@ -68,4 +68,4 @@ The following analyses can be altered in the /Data/fin_analysis_index_source.txt
 J Breuer - j7breuer@gmail.com.  Please reach out with any questions.
 
 ## Updates
-Updates will be far and few between as this currently serves the purpose I intended it to. 
+Updates will be few and far between as this currently serves the purpose I intended it to. 
